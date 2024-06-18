@@ -4,13 +4,6 @@ Building GPT-1 from Scratch Using NumPy: A Step-by-Step Guide
 Introduction:
 Building a transformer model like GPT-1 from scratch can be an incredibly rewarding experience. By understanding the core components and implementing them using only NumPy, you can gain a deep appreciation for the underlying mechanics of these powerful models. In this guide, we will walk through the process of constructing a simplified version of GPT-1, explaining each step along the way.
 
-
-Title:
-Building GPT-1 from Scratch Using NumPy: A Step-by-Step Guide
-
-Introduction:
-Building a transformer model like GPT-1 from scratch can be an incredibly rewarding experience. By understanding the core components and implementing them using only NumPy, you can gain a deep appreciation for the underlying mechanics of these powerful models. In this guide, we will walk through the process of constructing a simplified version of GPT-1, explaining each step along the way.
-
 Detailed Explanation:
 Hyperparameters
 We define the dimensions for the model and the feedforward network, along with the sequence length.
